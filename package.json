@@ -1,0 +1,16 @@
+{
+  "name": "clientfacs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron ."
+    
+  },
+  "keywords": [],
+  "author": "Anderson Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.3.1"
+  }
+}
