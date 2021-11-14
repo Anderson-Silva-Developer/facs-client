@@ -5,12 +5,12 @@
   "main": "electron/main.js",
   "scripts": {
     "start": "electron ."
-    
   },
   "keywords": [],
   "author": "Anderson Silva",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^15.3.1"
+    "electron": "^15.3.1",
+    "nodemon": "^2.0.15"
   }
 }
